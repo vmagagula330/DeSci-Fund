@@ -10,6 +10,11 @@ path = 'contracts/peer-review.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.research-nft]
+path = 'contracts/research-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.research-proposal]
 path = 'contracts/research-proposal.clar'
 clarity_version = 2
